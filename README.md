@@ -136,6 +136,6 @@ $ npm run dev
 
 ## Output
 
-![result](public/result-calculation.png)
+![result](result-calculation.png)
 
 go to React site and check if the results of calculation are displayed like this.
