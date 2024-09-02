@@ -1,4 +1,4 @@
-# WebAssembly with C++ and React(Vite)
+# How to use C++ code in React(Vite) with WebAssembly via Emscripten
 
 > This guide provides instructions for compiling C++ code to WebAssembly using Emscripten and integrating it into a React project(Vite).
 
