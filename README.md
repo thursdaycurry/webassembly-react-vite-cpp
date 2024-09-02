@@ -8,6 +8,28 @@ Correct Compilation Approach for Emscripten
 Verify C++ Code
 Ensure your C++ code is written correctly for exporting functions to WebAssembly. Here’s a simple example:
 
+## Directory structure
+
+```
+.
+├── README.md
+├── asconfig.json
+├── assembly
+│   ├── index.ts
+│   └── tsconfig.json
+├── example.cpp
+├── example.js
+├── example.wasm
+├── ...
+├── src
+│   ├── App.tsx
+│   ├── loadWasm.ts
+│   ├── main.tsx
+│   └── ...
+├── ...
+└── vite.config.ts
+```
+
 ## Step-by-Step Guide
 
 create cpp file
